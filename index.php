@@ -1,5 +1,5 @@
 
-<?php include ('includes/header.php') ?> <!-----include header file------->
+ <?php include ('includes/header.php')//some random text ?> <!-----include header file------->
 
 <?php include ('includes/nav.php') ?> <!-----include nav file------->
 
